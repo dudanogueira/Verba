@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: semitechnologies/verba:latest
+          tags: dudanogueira/verba:latest
