@@ -28,3 +28,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: dudanogueira/verba:latest
+          platforms: linux/amd64,linux/arm64
